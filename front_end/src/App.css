@@ -8,7 +8,7 @@
 .hero {
   background: linear-gradient(150deg, #1b4332 0%, #2d6a4f 45%, #40916c 100%);
   color: white;
-  padding: 40px 24px 56px;
+  padding: 40px 24px 40px;
   text-align: center;
   position: relative;
   overflow: hidden;
@@ -51,8 +51,8 @@
 /* ── Input section ── */
 .input-section {
   max-width: 640px;
-  margin: -40px auto 0;
-  padding: 0 20px 56px;
+  margin: 0 auto;
+  padding: 24px 20px 56px;
   width: 100%;
 }
 .card {
