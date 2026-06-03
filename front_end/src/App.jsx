@@ -180,6 +180,16 @@ export default function App() {
         </section>
       )}
 
+      <div className="made-by">
+        <div className="made-by-inner">
+          <span className="made-by-emoji">👨‍💻</span>
+          <div>
+            <p className="made-by-label">Built by</p>
+            <p className="made-by-name">Jasmol Arora</p>
+          </div>
+        </div>
+      </div>
+
       <footer>WhatShouldIEat · Powered by AI</footer>
     </div>
   )

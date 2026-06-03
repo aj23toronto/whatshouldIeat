@@ -323,6 +323,41 @@ textarea:focus {
 }
 .reset-btn:hover { border-color: #2d6a4f; color: #2d6a4f; background: #f0faf4; }
 
+/* ── Made by ── */
+.made-by {
+  background: white;
+  border-top: 1px solid #ebebeb;
+  padding: 28px 24px;
+}
+.made-by-inner {
+  max-width: 640px;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  gap: 14px;
+}
+.made-by-emoji {
+  font-size: 2rem;
+  background: #f0faf4;
+  width: 52px; height: 52px;
+  border-radius: 14px;
+  display: flex; align-items: center; justify-content: center;
+  flex-shrink: 0;
+}
+.made-by-label {
+  font-size: 0.72rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.8px;
+  color: #40916c;
+  margin-bottom: 2px;
+}
+.made-by-name {
+  font-size: 1.1rem;
+  font-weight: 700;
+  color: #111;
+}
+
 /* ── Footer ── */
 footer {
   text-align: center; padding: 28px;
