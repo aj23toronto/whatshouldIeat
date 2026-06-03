@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "whatshouldIeat-frontend",
+      "runtimeExecutable": "/Users/jasmolarora/.nvm/versions/node/v24.11.0/bin/node",
+      "runtimeArgs": ["/Users/jasmolarora/.nvm/versions/node/v24.11.0/lib/node_modules/npm/bin/npm-cli.js", "run", "dev", "--", "--port", "5173"],
+      "port": 5173
+    }
+  ]
+}
